@@ -12,7 +12,7 @@
 ## Установка
 
 ```bash
-pip install -r requirements.txt
+pip install -r app.txt
 ```
 
 ## Разделение
@@ -29,14 +29,4 @@ output/song/
 ├── melody.wav
 ├── bpm.txt
 └── info.json
-```
-
-## Обучение
-
-```bash
-python vocal_separator.py --train --epochs 10
-```
-
-```bash
-python vocal_separator.py song.mp3 -w weights/vocal_unet.pth
 ```
