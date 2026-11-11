@@ -1,8 +1,8 @@
-# Vocal Separator — нейросеть с нуля 
+# Vocal Separator
 
 Всё в одном файле: `vocal_separator.py`
 
-- U-Net (написан с нуля)
+- U-Net
 - Разделение на вокал + мелодию
 - Расчёт BPM
 - Папка с именем песни
